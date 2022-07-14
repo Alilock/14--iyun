@@ -1,0 +1,8 @@
+.contacthead ul {
+    display: flex;
+}
+
+.contacthead ul:first-child {
+    margin-right: 30px;
+
+}
